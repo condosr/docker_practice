@@ -1,6 +1,6 @@
 
 ARG customer
-
+#syntax=docker/dockerfile:1
 FROM ubuntu.latest
 #
 #
